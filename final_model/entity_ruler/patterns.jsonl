@@ -1,0 +1,9 @@
+{"label":"PhoneNumber","pattern":[{"TEXT":{"REGEX":"(\\d{10})"}}]}
+{"label":"PhoneNumber","pattern":[{"TEXT":{"REGEX":"(\\d{3}-\\d{3}-\\d{4})"}}]}
+{"label":"SSN","pattern":[{"TEXT":{"REGEX":"\\d{9}"}}]}
+{"label":"SSN","pattern":[{"TEXT":{"REGEX":"\\d{3}-\\d{2}-\\d{4}"}}]}
+{"label":"Email","pattern":[{"TEXT":{"REGEX":"\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Z|a-z]{2,}\b"}}]}
+{"label":"ZipCode","pattern":[{"TEXT":{"REGEX":"\\d{5}"}}]}
+{"label":"ZipCode","pattern":[{"TEXT":{"REGEX":"\\d{5}-\\d{4}"}}]}
+{"label":"ID","pattern":[{"TEXT":{"REGEX":"(([a-zA-Z][a-zA-Z-][a-zA-Z])[0-9]{4})"}}]}
+{"label":"Boolean","pattern":[{"TEXT":{"IN":["TRUE","FALSE","True","False"]}}]}
