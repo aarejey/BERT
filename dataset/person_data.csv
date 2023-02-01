@@ -61,12 +61,12 @@ ASE0942,Andrew,Knapton,Founder & CEO,Male,601209656,yknaptonq5@amazon.de,,157-33
 ASE0941,Liz,Stebbins,Co-Founder / CEO,Male,601209655,,953-320-5619,350-818-7452,1445,NULL,NULL,NULL,NULL,Maserati,47,-122,2022-11-11,TRUE
 ASE0940,Rick,Mothersole,CEO,Male,601209654,smothersoleq3@flickr.com,365-197-8812,408-706-4860,1450,NULL,NULL,NULL,NULL,Audi,38,-77,2022-11-11,TRUE
 ASE0939,Susan,Bannister,Managing Director,Male,601209653,abannisterq2@bbb.org,197-956-9775,637-427-8616,1455,4119 E 34th ave,Spokane,WA,99223,Chevrolet,39,-77,2022-11-11,TRUE
-ASE0938,Winnifred,McGlone,CEO?Ç,Male,6012096522,kmcgloneq1@ustream.tv,707-600-1956,374-308-5702,1460,NULL,NULL,NULL,NULL,Mini-Cooper,39,-77,2022-11-11,TRUE
-ASE0937,Maxine,Disley,CEO?Ç,Female,601209651,jdisleyq0@state.tx.us,502-124-0613,812-753-1419,1465,NULL,NULL,NULL,NULL,Aston Martin,39,-78,2022-11-11,TRUE
-ASE0936,Lean,Leckie,CEO?Ç,Male,601209650,nleckiepz@nba.com,,403-261-0619,1470,NULL,NULL,NULL,NULL,Buick,39,-77,2022-11-11,TRUE
-ASE0935,Charlene,Botfield,CEO?Ç,Male,601209649,cbotfieldpy@prlog.org,108-943-6467,533-781-9085,1475,NULL,NULL,NULL,NULL,Maserati,37,-81,2022-11-11,TRUE
+ASE0938,Winnifred,McGlone,CEO?Ã‡,Male,6012096522,kmcgloneq1@ustream.tv,707-600-1956,374-308-5702,1460,NULL,NULL,NULL,NULL,Mini-Cooper,39,-77,2022-11-11,TRUE
+ASE0937,Maxine,Disley,CEO?Ã‡,Female,601209651,jdisleyq0@state.tx.us,502-124-0613,812-753-1419,1465,NULL,NULL,NULL,NULL,Aston Martin,39,-78,2022-11-11,TRUE
+ASE0936,Lean,Leckie,CEO?Ã‡,Male,601209650,nleckiepz@nba.com,,403-261-0619,1470,NULL,NULL,NULL,NULL,Buick,39,-77,2022-11-11,TRUE
+ASE0935,Charlene,Botfield,CEO?Ã‡,Male,601209649,cbotfieldpy@prlog.org,108-943-6467,533-781-9085,1475,NULL,NULL,NULL,NULL,Maserati,37,-81,2022-11-11,TRUE
 ASE0934,DLynn,Slimming,CEO,Female,601209648,dslimmingpx@thetimes.co.uk,312-415-1183,222-482-4966,1480,10714 N College Place Dr.,NULL,NULL,NULL,Nissan,38,-78,2022-11-11,TRUE
-ASE0933,Kaari,Nickols,CEO?Ç,Male,601209647,rnickolspw@mozilla.com,,404-763-8665,1485,NULL,NULL,NULL,NULL,Nissan,37,-79,2022-11-11,TRUE
+ASE0933,Kaari,Nickols,CEO?Ã‡,Male,601209647,rnickolspw@mozilla.com,,404-763-8665,1485,NULL,NULL,NULL,NULL,Nissan,37,-79,2022-11-11,TRUE
 ASE0932,Tim,,"Founder and President,",Female,601209646,msitlingtonpv@freewebs.com,645-119-1335,,1490,NULL,NULL,NULL,NULL,Cadillac,39,-77,2022-11-11,TRUE
 ASE0931,Calvin,Shevlan,CEO,Female,601209645,ashevlanpu@nature.com,,955-718-7252,1495,NULL,NULL,NULL,NULL,Volvo,39,-77,2022-11-11,TRUE
 ASE0930,Jeanna,,CEO,Male,601209644,htomalinpt@pcworld.com,557-487-1867,,1500,NULL,NULL,NULL,NULL,Porsche,39,-78,2022-11-11,TRUE
@@ -86,11 +86,11 @@ ASE0917,Kristin,Brattell,CEO,Male,601209633,pbrattellpg@exblog.jp,533-208-2168,9
 ASE0916,Jim,Sallinger,CEO,Male,601209632,asallingerpf@epa.gov,828-940-0214,114-138-7156,1570,NULL,NULL,NULL,NULL,BMW,45,-72,2022-11-11,TRUE
 ASE0915,Amy,Havenhand,President,Male,601209631,ehavenhandpe@cbsnews.com,135-122-2363,915-467-6139,1575,NULL,NULL,NULL,NULL,Mazda,43,-72,2022-11-11,TRUE
 ASE0914,Kimberly,,President and Chief Operating Officer,Male,601209630,,323-449-1275,,1580,NULL,NULL,NULL,NULL,Maserati,45,-72,2022-11-11,TRUE
-ASE0913,Marie,Stocking,President?Ç,Male,601209629,gstockingpc@dailymail.co.uk,142-807-2889,499-618-5029,1585,1605 W 10th Ave,Spokane,Wa,99204,Mazda,44,-72,2022-11-11,TRUE
+ASE0913,Marie,Stocking,President?Ã‡,Male,601209629,gstockingpc@dailymail.co.uk,142-807-2889,499-618-5029,1585,1605 W 10th Ave,Spokane,Wa,99204,Mazda,44,-72,2022-11-11,TRUE
 ASE0912,Amanda,Pichmann,ceo,Male,601209628,gpichmannpb@51.la,298-627-1313,100-412-1401,1590,NULL,NULL,NULL,NULL,Koenigsegg,45,-73,2022-11-11,TRUE
-ASE0911,Daryl,Biggerdike,CEO?Ç,Male,601209627,mbiggerdikepa@skyrock.com,431-568-6745,962-586-4767,1595,4111 W Sanson Ave,Spokane,WA,99205-7648,Aston Martin,44,,2022-11-11,TRUE
+ASE0911,Daryl,Biggerdike,CEO?Ã‡,Male,601209627,mbiggerdikepa@skyrock.com,431-568-6745,962-586-4767,1595,4111 W Sanson Ave,Spokane,WA,99205-7648,Aston Martin,44,,2022-11-11,TRUE
 ASE0910,Wayne,Umfrey,Founder & CEO,Male,601209626,cumfreyp9@accuweather.com,188-903-1488,493-764-0157,1600,132 W 40th,NULL,NULL,99203,Bentley,44,-73,2022-11-11,TRUE
-ASE0909,Dan,Mereweather,Co-Founder and Managing Director?Ç,Male,601209746,cmereweatherp8@reuters.com,650-940-3368,467-629-6059,1605,NULL,NULL,NULL,NULL,Aston Martin,45,-72,2022-11-11,TRUE
+ASE0909,Dan,Mereweather,Co-Founder and Managing Director?Ã‡,Male,601209746,cmereweatherp8@reuters.com,650-940-3368,467-629-6059,1605,NULL,NULL,NULL,NULL,Aston Martin,45,-72,2022-11-11,TRUE
 ASE0908,Fred,Styche,CEO and Co-Founder,Male,601209745,fstychep7@multiply.com,770-748-2875,546-870-3223,1610,NULL,NULL,NULL,NULL,Chevrolet,44,-72,2022-11-11,TRUE
 ASE0907,Veronica,Cocke,Cofounder/CEO,Male,601209625,ecockep6@exblog.jp,691-355-0146,645-928-4901,1615,927 E. 11th Ave,Spokane,WA,99202,MG,45,-72,2022-11-11,TRUE
 ASE0906,Terri,,Co-founder and CTO,Male,601209624,cgaggp5@newsvine.com,,,1620,NULL,NULL,NULL,NULL,Koenigsegg,44,-73,2022-11-11,TRUE
@@ -106,9 +106,9 @@ ASE0897,Ian,,CEO,Male,6012096155,,,,1665,NULL,NULL,NULL,NULL,Mercedes-Benz,39,-1
 ASE0896,April,Guiton,CEO MD,Male,601209614,vguitonov@alibaba.com,,125-587-6020,1670,NULL,NULL,NULL,NULL,Mini-Cooper,41,-112,2022-11-11,TRUE
 ASE0895,Holly,Burdis,Founder,Male,601209613,,225-778-9121,653-827-8503,1675,NULL,NULL,NULL,NULL,Tesla,42,-112,2022-11-11,TRUE
 ASE0894,Samuel,,Co-Founder,Male,601209612,ibresnahanot@facebook.com,708-301-3430,,1680,NULL,NULL,NULL,NULL,BMW,40,-112,2022-11-11,TRUE
-ASE0893,Megan,,CEO?Ç,Male,601209611,ktassellos@networksolutions.com,,,1685,1739 E. Wabash Ave.,Spokane,WA,99207,Toyota,41,,2022-11-11,TRUE
+ASE0893,Megan,,CEO?Ã‡,Male,601209611,ktassellos@networksolutions.com,,,1685,1739 E. Wabash Ave.,Spokane,WA,99207,Toyota,41,,2022-11-11,TRUE
 ASE0892,Virgil,,CEO,Male,601209610,ppirotor@fda.gov,510-179-4627,,1690,NULL,NULL,NULL,NULL,Aston Martin,42,-112,2022-11-11,TRUE
-ASE0891,Raul,Caverhill,Co-founder and CEO?Ç,Male,601209744,,206-753-4914,581-129-6993,1695,NULL,NULL,NULL,NULL,Lotus,39,-112,2022-11-11,TRUE
+ASE0891,Raul,Caverhill,Co-founder and CEO?Ã‡,Male,601209744,,206-753-4914,581-129-6993,1695,NULL,NULL,NULL,NULL,Lotus,39,-112,2022-11-11,TRUE
 ASE0890,Tabatha,,"CEO, Co-Founde",Male,601209743,nblazebyop@dot.gov,509-359-3562,,1700,2707 E. 17th Ave,Spokane,WA,99223,Mini-Cooper,40,-109,2022-11-11,TRUE
 ASE0889,Christina,Lensch,Co-Founder,Male,601209609,klenschoo@blogtalkradio.com,919-103-2267,757-850-1009,1705,NULL,NULL,NULL,NULL,Jaguar,40,-112,2022-11-11,TRUE
 ASE0888,Michael,Greenard,CEO,Male,601209608,mgreenardon@businesswire.com,121-996-4408,307-557-1395,1710,1315 W. 20th Ave.,Spokane,WA,99203,Lamborghini,42,-112,2022-11-11,TRUE
@@ -128,7 +128,7 @@ ASE0875,Joel,Kernocke,Co-Founder & CEO,Male,601-20-9595,jkernockeoa@cyberchimps.
 ASE0874,Peggy,MacCartair,Chief Executive Officer,Male,601209594,,763-231-9778,870-134-1220,1780,1604 E Longfellow Ave,Spokane,WA,99207,MG,31,-97,2022-11-11,TRUE
 ASE0873,Frandy Johanes,Bugbee,Co-Founder & CEO,Male,601209742,rbugbeeo8@sciencedirect.com,530-650-2573,679-205-1119,1785,NULL,NULL,NULL,NULL,Datsun,27,-99,2022-11-11,TRUE
 ASE0872,Melinda,Kordt,Co-Founder and CEO,Male,601209741,bkordto7@thetimes.co.uk,105-170-1821,723-682-8172,1790,7804 N Debby Lynn Ct,Spokane,WA,99208-8482,Datsun,31,-99,2022-11-11,TRUE
-ASE0871,Michael,Riseley,Co-founder & CEO?Ç,Male,601209593,vriseleyo6@psu.edu,106-633-7703,370-385-9783,1795,NULL,NULL,NULL,NULL,Tesla,34,-96,2022-11-11,TRUE
+ASE0871,Michael,Riseley,Co-founder & CEO?Ã‡,Male,601209593,vriseleyo6@psu.edu,106-633-7703,370-385-9783,1795,NULL,NULL,NULL,NULL,Tesla,34,-96,2022-11-11,TRUE
 ASE0870,John,O' Dornan,Co-Founder & CEO,Male,601209592,podornano5@house.gov,,288-728-3248,1800,NULL,NULL,NULL,NULL,Koenigsegg,32,-98,2022-11-11,TRUE
 ASE0869,Alyssa,Yukhnini,CEO & Founder,Male,601209591,eyukhninio4@scribd.com,387-254-3751,707-422-3131,1805,"2718 W Heath Ave, Spokane, WA 99208",Spokane,WA,99208,Jaguar,36,-102,2022-11-11,TRUE
 ASE0868,Marilyn,Akam,Founder/CEO,Femalee,601209590,lakamo3@ca.gov,393-778-0253,340-272-7526,1810,1925 W Centennial Way,Spokane,WA,99201,Lotus,26,-97,2022-11-11,TRUE
@@ -282,11 +282,11 @@ ASE0721,Kim,Lippitt,Founder & CEO,Female,601209459,flippittk0@wunderground.com,2
 ASE0720,Ron,Benediktsson,"Co-Founder and Chief Executive Officer,",Male,6012094588,sbenediktssonjz@bloglovin.com,,223-243-7555,2334,4125 37th Ave,Spokane,WA,99223,Nissan,41,-82,2022-11-11,TRUE
 ASE0719,Krista,Filyaev,"President,",Male,601209457,mfilyaevjy@theglobeandmail.com,501-577-2865,899-903-0378,2335,6204 N Ash St,Spokane,WA,99205,Chevrolet,39,-85,2022-11-11,TRUE
 ASE0718,Alexander,Jerdon,Co Founder,Male,601209456,ujerdonjx@live.com,130-569-9501,837-229-1532,2340,NULL,NULL,NULL,NULL,Audi,41,-81,2022-11-11,TRUE
-ASE0717,Mary,,CEO?Ç,Male,601209455,rklicherjw@mediafire.com,189-149-1772,,2340,NULL,NULL,NULL,NULL,Plymouth,40,-84,,TRUE
-ASE0716,Harlan,O'Lenechan,CEO?Ç,Male,601209454,zolenechanjv@youtu.be,539-769-9670,NULL,2340,1028 E North Foothills Dr.,Spokane,WA,99208,Suzuki,39,-84,2022-11-11,TRUE
-ASE0715,Carolyn,Ryland,CEO?Ç,Male,601209453,frylandju@thetimes.co.uk,578-440-2631,NULL,2345,3118 S Ultra,Spokane,WA,99224,MG,39,-84,2022-11-11,TRUE
-ASE0714,Carly,,CEO?Ç,Male,601209452,sshorlandjt@webeden.co.uk,,NULL,2346,1114 W Fairview Ave,NULL,NULL,NULL,Isuzu,41,-84,2022-11-11,TRUE
-ASE0713,Brooke,Chapling,CEO?Ç,Female,601209451,,815-526-6562,NULL,2350,NULL,NULL,NULL,NULL,Audi,40,-83,2022-11-11,TRUE
+ASE0717,Mary,,CEO?Ã‡,Male,601209455,rklicherjw@mediafire.com,189-149-1772,,2340,NULL,NULL,NULL,NULL,Plymouth,40,-84,,TRUE
+ASE0716,Harlan,O'Lenechan,CEO?Ã‡,Male,601209454,zolenechanjv@youtu.be,539-769-9670,NULL,2340,1028 E North Foothills Dr.,Spokane,WA,99208,Suzuki,39,-84,2022-11-11,TRUE
+ASE0715,Carolyn,Ryland,CEO?Ã‡,Male,601209453,frylandju@thetimes.co.uk,578-440-2631,NULL,2345,3118 S Ultra,Spokane,WA,99224,MG,39,-84,2022-11-11,TRUE
+ASE0714,Carly,,CEO?Ã‡,Male,601209452,sshorlandjt@webeden.co.uk,,NULL,2346,1114 W Fairview Ave,NULL,NULL,NULL,Isuzu,41,-84,2022-11-11,TRUE
+ASE0713,Brooke,Chapling,CEO?Ã‡,Female,601209451,,815-526-6562,NULL,2350,NULL,NULL,NULL,NULL,Audi,40,-83,2022-11-11,TRUE
 ASE0712,Roberto,Steddall,Co-Founder & CEO,Male,601209450,rsteddalljr@hao123.com,771-129-3963,509-413-1405,2350,930 S. Cowley St. Apt. #401,Spokane,WA,NULL,Hyundai,40,-81,2022-11-11,TRUE
 ASE0711,Julie,,CEO / Co-Founder,Male,601209724,,874-266-9686,NULL,2352,312 E North Ave,Spokane,WA,99218,Mitsubishi,40,-84,2022-11-11,TRUE
 ASE0710,Nancy,Aynold,"VP, Business Developmen",Male,601209723,,497-111-6843,NULL,2355,NULL,NULL,NULL,NULL,Aston Martin,41,-81,2022-11-11,TRUE
@@ -296,7 +296,7 @@ ASE0707,Ian,Wordsworth,"Co-Founder, CEO",Male,601209447,,125-959-9233,206-886-92
 ASE0706,Kimberlee,Reade,CEO,Male,601209446,,311-542-0951,NULL,2364,2607 E Boone,Spokane,WA,99202,Ford,40,-81,2022-11-11,TRUE
 ASE0705,Matthew,Harkess,CTO,Male,601209445,,,509-413-7001,2365,NULL,NULL,NULL,NULL,Plymouth,41,-82,2022-11-11,TRUE
 ASE0704,Caitlyn,Dannett,Founder,Male,601209444,cdannettjj@nyu.edu,313-498-3874,NULL,2370,NULL,NULL,NULL,NULL,Volvo,40,-82,2022-11-11,TRUE
-ASE0703,Dwite,Bendixen,President & CEO?Ç,Male,601209443,,,NULL,2370,3011 W Decatur Ave,Spokane,WA,99205,Mercedes-Benz,39,-82,2022-11-11,TRUE
+ASE0703,Dwite,Bendixen,President & CEO?Ã‡,Male,601209443,,,NULL,2370,3011 W Decatur Ave,Spokane,WA,99205,Mercedes-Benz,39,-82,2022-11-11,TRUE
 ASE0702,Hannah,Goldup,Co Founder,Male,601209442,lgoldupjh@utexas.edu,124-626-4851,NULL,2370,NULL,NULL,NULL,NULL,Mini-Cooper,41,-82,2022-11-11,TRUE
 ASE0701,Mike,Braidley,Co-founder,Male,601209441,,230-900-5082,NULL,2375,5305 W. Oxford Ave,Spokane,WA,99208,Koenigsegg,39,-84,2022-11-11,TRUE
 ASE0700,Jordan,Honsch,CEO and President,Male,601209440,dhonschjf@ihg.com,,NULL,2376,NULL,NULL,NULL,NULL,Datsun,47,-104,2022-11-11,TRUE
@@ -304,10 +304,10 @@ ASE0699,Michael & Joy,Daine,CEO & Co-founder,Male,601209439,pdaineje@slashdot.or
 ASE0698,Lori,Scholer,Co-Founder & CTO,Male,601209438,,611-280-8539,NULL,2380,5915 S Rebecca St,Spokane,WA,99223,Opel,49,-99,2022-11-11,TRUE
 ASE0697,Oak Hill Home,Yitzhakof,Co-Founder,Femalee,601209437,lyitzhakofjc@dell.com,484-438-5701,NULL,2382,NULL,NULL,NULL,NULL,Porsche,47,-97,2022-11-11,TRUE
 ASE0696,Maureen,Guilder,Co-Founder & CTO,Female,601209436,,109-572-3150,509-995-3514,2385,7018 S Woodhaven Dr,Spokane,WA,99224,Chrysler,49,-99,2022-11-11,TRUE
-ASE0695,Leticia,Hawse,"CEO,?Ç",Male,601209435,ihawseja@cloudflare.com,989-237-9424,NULL,2388,NULL,NULL,NULL,NULL,Renault,47,-101,2022-11-11,TRUE
+ASE0695,Leticia,Hawse,"CEO,?Ã‡",Male,601209435,ihawseja@cloudflare.com,989-237-9424,NULL,2388,NULL,NULL,NULL,NULL,Renault,47,-101,2022-11-11,TRUE
 ASE0694,Nancy,Langdon,Founder | CEO,Female,601209434,elangdonj9@macromedia.com,251-416-2701,NULL,2390,1625 E 37th Ave,Spokane,WA,99203,Tesla,47,-103,2022-11-11,TRUE
-ASE0693,Ken Harvey,McTrusty,CEO?Ç,Male,601209722,,673-525-6148,NULL,2390,1607 E Houston Ave,Spokane,WA,99217,Nissan,48,-98,2022-11-11,TRUE
-ASE0692,Jenneane,Redmayne,CEO?Ç,Male,601209721,,634-129-8819,NULL,2394,NULL,NULL,NULL,NULL,Bentley,48,-101,2022-11-11,TRUE
+ASE0693,Ken Harvey,McTrusty,CEO?Ã‡,Male,601209722,,673-525-6148,NULL,2390,1607 E Houston Ave,Spokane,WA,99217,Nissan,48,-98,2022-11-11,TRUE
+ASE0692,Jenneane,Redmayne,CEO?Ã‡,Male,601209721,,634-129-8819,NULL,2394,NULL,NULL,NULL,NULL,Bentley,48,-101,2022-11-11,TRUE
 ASE0691,Rachael,D'Emanuele,CTO,Male,601209433,ddemanuelej6@icio.us,725-971-3619,NULL,2395,NULL,NULL,NULL,NULL,Ford,48,-104,2022-11-11,TRUE
 ASE0690,Leonard,Gatley,CEO and co-founder,Male,601209432,agatleyj5@utexas.edu,254-553-5741,NULL,2400,NULL,NULL,NULL,NULL,Mazda,48,-100,2022-11-11,TRUE
 ASE0689,Jason,Ryburn,CEO,Male,601209431,cryburnj4@tinypic.com,,509-838-4701,2400,NULL,NULL,NULL,NULL,Isuzu,47,-101,2022-11-11,TRUE
@@ -356,17 +356,17 @@ ASE0647,Heather,Harvett,CEO,Female,601209393,aharvetthy@zimbio.com,884-158-3127,
 ASE0646,Jayne,Vince,CPO,Male,601209392,,194-577-1374,NULL,2490,NULL,NULL,NULL,NULL,Cadillac,42,-77,2022-11-11,TRUE
 ASE0645,Andrew,Antonellini,Co-Founder & Co-CEO,Male,601209391,lantonellinihw@stanford.edu,272-311-1266,NULL,2495,NULL,NULL,NULL,NULL,Datsun,43,-75,2022-11-11,TRUE
 ASE0644,Jennifer,Josey,Founder & CEO,Male,601209390,rjoseyhv@si.edu,410-857-5462,NULL,2496,NULL,NULL,NULL,NULL,Isuzu,41,-74,2022-11-11,TRUE
-ASE0643,Marcella,Dressel,CEO?Ç,Male,601209389,adresselhu@biblegateway.com,741-863-0743,NULL,2500,NULL,NULL,NULL,NULL,Renault,43,-77,2022-11-11,TRUE
+ASE0643,Marcella,Dressel,CEO?Ã‡,Male,601209389,adresselhu@biblegateway.com,741-863-0743,NULL,2500,NULL,NULL,NULL,NULL,Renault,43,-77,2022-11-11,TRUE
 ASE0642,Taylor,Stonman,CO- Founder,Male,601209388,tstonmanht@sourceforge.net,882-327-2449,NULL,2500,NULL,NULL,NULL,NULL,Bentley,41,-74,2022-11-11,TRUE
 ASE0641,Rick,Parish,CEO,Male,601209387,lparishhs@jalbum.net,,NULL,2502,NULL,NULL,NULL,NULL,Chevrolet,41,-75,2022-11-11,TRUE
-ASE0640,Chelsea,Trinkwon,CEO?Ç,Female,601209386,ftrinkwonhr@a8.net,801-133-9154,NULL,2505,NULL,NULL,NULL,NULL,Maserati,36,-106,2022-11-11,TRUE
+ASE0640,Chelsea,Trinkwon,CEO?Ã‡,Female,601209386,ftrinkwonhr@a8.net,801-133-9154,NULL,2505,NULL,NULL,NULL,NULL,Maserati,36,-106,2022-11-11,TRUE
 ASE0639,Katie,Ryrie,CEO,Male,601209716,nryriehq@slate.com,496-762-8695,NULL,2508,NULL,NULL,NULL,NULL,Buick,37,-105,2022-11-11,TRUE
 ASE0638,Andrea,Cosley,Founder & CEO,Male,601209715,gcosleyhp@discuz.net,345-560-8164,NULL,2510,NULL,NULL,NULL,NULL,Jaguar,35,-105,2022-11-11,TRUE
 ASE0637,Armin,,CEO,Male,601209385,jkilbrideho@is.gd,580-542-0757,NULL,2510,3904 S Cuba st,NULL,NULL,NULL,Mini-Cooper,36,-106,2022-11-11,TRUE
 ASE0636,Delaney,,CEO and Co-founder,Male,601209384,,643-593-2231,NULL,2514,NULL,NULL,NULL,NULL,Porsche,36,-109,2022-11-11,TRUE
 ASE0635,Jacob,Emberson,Co-Founder & Chief Executive Office,Male,601209383,wembersonhm@answers.com,599-286-8121,NULL,2515,NULL,NULL,NULL,NULL,Buick,32,-108,2022-11-11,TRUE
 ASE0634,Hannah,Van der Velde,Chief Executive Officer,Male,601209382,nvanderveldehl@phoca.cz,141-732-5245,NULL,2520,NULL,NULL,NULL,NULL,BMW,35,-107,2022-11-11,TRUE
-ASE0633,Joanne,Rettie,CEO?Ç,Female,601209381,krettiehk@wikia.com,124-538-9836,NULL,2520,NULL,NULL,NULL,NULL,Audi,35,-108,2022-11-11,TRUE
+ASE0633,Joanne,Rettie,CEO?Ã‡,Female,601209381,krettiehk@wikia.com,124-538-9836,NULL,2520,NULL,NULL,NULL,NULL,Audi,35,-108,2022-11-11,TRUE
 ASE0632,Monica,Rickert,CEO & Co-Founder,Female,601209380,grickerthj@acquirethisname.com,779-618-1022,NULL,2520,1926 W 3rd Ave Apt 2,Spokane,WA,99201-7650,Mazda,35,-107,2022-11-11,TRUE
 ASE0631,Daniel,Berzins,Founder & CEO,Male,601209379,,817-321-6995,NULL,2525,NULL,NULL,NULL,NULL,Mazda,35,-104,2022-11-11,TRUE
 ASE0630,John,Hutt,CEO & Founder,Male,601209378,dhutthh@discuz.net,618-994-6176,NULL,2526,NULL,NULL,NULL,NULL,Bentley,36,-106,2022-11-11,TRUE
@@ -527,7 +527,7 @@ ASE0476,Jen,,Director of Software Development: Big Data Applications | Agile Met
 ASE0475,Gold Steal,Michiel,"Director, IT Operations, Decision Analytics",Male,601209231,vmichield6@baidu.com,208-755-5581,NULL,3065,NULL,NULL,NULL,NULL,Lamborghini,47,-94,2022-11-11,TRUE
 ASE0474,Francis,McAllester,"VP, Software Development",Female,601209230,cmcallesterd5@acquirethisname.com,534-0201,NULL,3070,NULL,NULL,NULL,NULL,Porsche,44,-94,2022-11-11,TRUE
 ASE0473,Marshall,Harrald,Vice President - Global Shared Services,Female,601209229,hharraldd4@amazon.com,509-280-8737,NULL,3075,"915 W Second Ave, Ste. 7",Spokane,WA,99201,Lamborghini,45,-95,2022-11-11,TRUE
-ASE0472,Julie,Bailes,"Vice President of IT, R3PI | Office of the CEO?Ç",Female,601209228,lbailesd3@hexun.com,801-554-8767,442-933-1818,3080,5107 N Ash St,Spokane,WA,99205-5509,Chrysler,45,-94,2022-11-11,TRUE
+ASE0472,Julie,Bailes,"Vice President of IT, R3PI | Office of the CEO?Ã‡",Female,601209228,lbailesd3@hexun.com,801-554-8767,442-933-1818,3080,5107 N Ash St,Spokane,WA,99205-5509,Chrysler,45,-94,2022-11-11,TRUE
 ASE0471,Georgia,Woodcraft,Vice President Product Management,Female,601209227,hwoodcraftd2@mashable.com,206-979-0041,991-420-8998,3085,2728 W College Ave,Spokane,WA,99201,Mini-Cooper,44,-96,2022-11-11,TRUE
 ASE0470,Steve,Galliver,VP Liaison & Engagement Office / Chief of Staff Intelligence - Office of the CEO,Male,601209226,mgalliverd1@census.gov,509-710-0718,494-682-6040,3090,NULL,NULL,NULL,NULL,Porsche,47,-95,2022-11-11,TRUE
 ASE0469,Katie,Matten,VP Global Marketing,Male,601209225,mmattend0@artisteer.com,NULL,494-496-8420,3095,3509 S Dearborn Ct,Spokane,WA,99223,Chrysler,45,-93,2022-11-11,TRUE
@@ -940,7 +940,7 @@ ASE0063,Chris,,CEO,Male,601-208-802,mvassbender1q@gmaill.com,,,39431,614 E Longf
 ASE0062,Grant,Wibrow,CEO,Female,601-208-802,,836-938-8470,295-340-4834,39534,3417 E 27th Ave,Spokane,WA,99223,BMW,35,-92,2022-11-11,TRUE
 ASE0061,Christina,Alban,CEO,Male,601-208-802,halban1o@fotki.com,540-464-7140,555-499-7512,39637,NULL,NULL,NULL,NULL,Hyundai,36,-90,2022-11-11,TRUE
 ASE0060,Andrew,Delicate,Co-Founder & CEO,Female,601-208-802,zdelicate1n@chicagotribune.com,844-176-7078,524-760-0478,39740,NULL,NULL,NULL,NULL,Suzuki,34,-111,2022-11-11,TRUE
-ASE0059,Ronald,Freezer,Co-founder and CEO?Ç,Female,601-208-802,gfreezer1m@usgs.gov,498-808-2451,509-408-9697,39843,2009 W Gardner Ave,Spokane,WA,99201,Suzuki,36,-111,2022-11-11,TRUE
+ASE0059,Ronald,Freezer,Co-founder and CEO?Ã‡,Female,601-208-802,gfreezer1m@usgs.gov,498-808-2451,509-408-9697,39843,2009 W Gardner Ave,Spokane,WA,99201,Suzuki,36,-111,2022-11-11,TRUE
 ASE0058,Marina,Pudner,Founder and CTO,Female,601-208-802,tpudner1l@xinhuanet.com,614-523-7513,745-442-9806,39946,NULL,NULL,NULL,NULL,Volvo,36,-110,2022-11-11,TRUE
 ASE0057,Lowell,Kippins,CEO,Female,601-208-802,tkippins1k@auda.org.au,244-282-8938,794-914-9592,40049,3010 E 13th Ave (Acct 6820),Spokane,WA,99202-4325,Koenigsegg,33,-112,2022-11-11,TRUE
 ASE0056,Jose,Buckel,"CEO, Co-Founde",Male,601-208-802,jbuckel1j@ucla.edu,,316-649-6393,40152,6122 W Chippewa ct,NULL,NULL,NULL,Toyotaa,35,-113,2022-11-11,TRUE
